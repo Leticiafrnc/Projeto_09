@@ -1,4 +1,4 @@
-O Projeto_09 foi desenvolvido com o  objetivo de aprender mais sobre Jquery. Foi utilizado HTML5,CSS3 e Jquery. 
+A Landing page Vendas foi desenvolvida com o  objetivo de aprender mais sobre Jquery. Foi utilizado HTML5,CSS3 e Jquery. 
 
 ![Screenshot](Projeto09.gif)
 
